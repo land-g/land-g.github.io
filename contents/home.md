@@ -6,7 +6,7 @@ He is currently a student  at SiChuan University.
 
 #### Contact
 
-Email: cs.caiwengou[at]gmail.com
+Email: cs.caiwengou@gmail.com  \n
        caiwengou@stu.scu.edu.cn
 
 #### Education
